@@ -5,6 +5,7 @@ This repository contains data for preprint "Complex recombination landscape and 
 - `alignments`:
   - `ORF_1A_1B_2.fas` - alignment of concatenated ORFs of classical human astroviruses
   - `recombination_free` - alignments of recombinantion-free regions
+- BEAST2 xml files (`xmls`)
 - Trees (`trees`):
   - `ML` - ML phylogenetic trees for genome regions with no temporal signal
   - `Bayesian` - Bayesian phylogenetic trees
